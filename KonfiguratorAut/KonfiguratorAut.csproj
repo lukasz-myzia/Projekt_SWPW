@@ -43,10 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ceny.cs" />
     <Compile Include="EkranStart.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="PasLog.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="R1_Auta.cs" />
+    <Compile Include="R2_BigAuta.cs" />
+    <Compile Include="T1_Motory.cs" />
+    <Compile Include="T2_SuperBike.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

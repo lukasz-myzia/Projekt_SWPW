@@ -15,7 +15,7 @@ namespace KonfiguratorAut
             int exit = 0;
             while (exit != 2)
             {
-                
+                Menu.Wybor();
                 Console.WriteLine("\n Naciśnij dowolny aby kontynuować");
                 Console.ReadLine();
                 Console.Clear();
