@@ -1,0 +1,6 @@
+C:\Users\Kruk\source\repos\KonfiguratorAut\bin\Debug\KonfiguratorAut.exe.config
+C:\Users\Kruk\source\repos\KonfiguratorAut\bin\Debug\KonfiguratorAut.exe
+C:\Users\Kruk\source\repos\KonfiguratorAut\bin\Debug\KonfiguratorAut.pdb
+C:\Users\Kruk\source\repos\KonfiguratorAut\obj\Debug\KonfiguratorAut.csprojAssemblyReference.cache
+C:\Users\Kruk\source\repos\KonfiguratorAut\obj\Debug\KonfiguratorAut.exe
+C:\Users\Kruk\source\repos\KonfiguratorAut\obj\Debug\KonfiguratorAut.pdb
