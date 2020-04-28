@@ -4,3 +4,9 @@ C:\Users\Kruk\source\repos\KonfiguratorAut\bin\Debug\KonfiguratorAut.pdb
 C:\Users\Kruk\source\repos\KonfiguratorAut\obj\Debug\KonfiguratorAut.csprojAssemblyReference.cache
 C:\Users\Kruk\source\repos\KonfiguratorAut\obj\Debug\KonfiguratorAut.exe
 C:\Users\Kruk\source\repos\KonfiguratorAut\obj\Debug\KonfiguratorAut.pdb
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\PO_Pr\Project\KonfiguratorAut\bin\Debug\KonfiguratorAut.exe.config
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\PO_Pr\Project\KonfiguratorAut\bin\Debug\KonfiguratorAut.exe
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\PO_Pr\Project\KonfiguratorAut\bin\Debug\KonfiguratorAut.pdb
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\PO_Pr\Project\KonfiguratorAut\obj\Debug\KonfiguratorAut.csprojAssemblyReference.cache
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\PO_Pr\Project\KonfiguratorAut\obj\Debug\KonfiguratorAut.exe
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\PO_Pr\Project\KonfiguratorAut\obj\Debug\KonfiguratorAut.pdb
